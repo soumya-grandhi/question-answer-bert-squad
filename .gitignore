@@ -1,0 +1,7 @@
+# Ignore HuggingFace training checkpoints
+bert-base-uncased-finetuned-squad/
+# Ignore large tokenized datasets
+outputs/tokenized_squad_train/
+outputs/tokenized_squad_validation/
+# Ignore the final saved model in outputs
+outputs/final_model/
